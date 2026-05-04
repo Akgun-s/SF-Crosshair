@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "changelog": [
+    "Initial release",
+    "Customizable crosshair with 8 styles",
+    "Real-time preview and in-game display",
+    "Save unlimited favorite crosshairs",
+    "Share crosshairs with nearby players",
+    "PIN system for easy sharing",
+    "Custom image support via URL",
+    "Database-backed configuration",
+    "Auto-detect ESX and QBCore",
+    "Weapon blacklist system",
+    "Force crosshair on blacklisted weapons option"
+  ],
+  "download": "https://santafedev.store/"
+}
