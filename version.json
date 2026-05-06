@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "changelog": [
     "Initial release",
     "Customizable crosshair with 8 styles",
@@ -10,8 +10,9 @@
     "Custom image support via URL",
     "Database-backed configuration",
     "Auto-detect ESX and QBCore",
-    "Weapon blacklist system",
-    "Force crosshair on blacklisted weapons option"
+    "Improved config loading sequence",
+    "Enhanced NUI rendering stability",
+    "Performance optimizations"
   ],
   "download": "https://santafedev.store/"
 }
