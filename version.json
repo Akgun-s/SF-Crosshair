@@ -1,18 +1,15 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "changelog": [
-    "Initial release",
-    "Customizable crosshair with 8 styles",
-    "Real-time preview and in-game display",
-    "Save unlimited favorite crosshairs",
-    "Share crosshairs with nearby players",
-    "PIN system for easy sharing",
-    "Custom image support via URL",
-    "Database-backed configuration",
-    "Auto-detect ESX and QBCore",
+    "Fixed auto-save when selecting styles or favorites",
+    "Removed chat notifications on crosshair toggle",
+    "Improved crosshair persistence after restart",
+    "Enhanced database auto-save functionality",
+    "Removed all debug logs for production",
+    "Fixed crosshair flashing on script restart",
     "Improved config loading sequence",
     "Enhanced NUI rendering stability",
     "Performance optimizations"
   ],
-  "download": "https://santafedev.store/"
+  "download": "https://santafedev.store"
 }
